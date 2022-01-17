@@ -1,0 +1,4 @@
+* mario_cli
+print mario in terminal
+
+[[20220117_2145_394x325.png]]
